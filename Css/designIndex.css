@@ -42,7 +42,7 @@ body{
 }
 
 .comentarios2{
-    width: 400px;
+    width: 300px;
     margin-top: 70px;
 }
 
@@ -61,7 +61,7 @@ body{
     padding: 20px;
     color: #222;
     border-radius: 3px;
-    margin-left: 20px;
+    margin-left: 100px;
 }
 
 .burbuja2:after{
@@ -70,7 +70,7 @@ body{
     position: absolute;
 
     top: 15px;
-    margin-left: 380px;
+    margin-left: 280px;
 
     width: 0;
     height: 0;
